@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 # keygrid.py
 # Generates a grid of characters and symbols from a key
 
